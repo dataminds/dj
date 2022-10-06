@@ -11,4 +11,4 @@
 
 ## 데이터 저널리즘 국내 자료
 - [데이터저널리즘 어워드](https://learn.r-journalism.com/en/)
-- [언론진흥재단 데이저널리즘멘토링](https://www.journalismschool.kr/front/intropage/intropageShow.do?page_id=0720750900044542a764fa06c64b0c86)
+- [언론진흥재단 데이터저널리즘멘토링](https://www.journalismschool.kr/front/intropage/intropageShow.do?page_id=0720750900044542a764fa06c64b0c86)
