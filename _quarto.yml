@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!materials/workshop/"
+  preview:
+    port: 1357
+    browser: true
+
+website:
+  title: "데이터 저널리즘"
+  image: assets/koRea_logo.png
+  page-navigation: true
+  navbar:
+    background: "#447099"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "학습교재"
+        menu:
+        - text: "들어가며"
+          href: intro.qmd        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: true
+
